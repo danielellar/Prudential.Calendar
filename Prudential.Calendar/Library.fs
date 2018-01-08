@@ -1,5 +1,10 @@
-namespace Prudential.Calendar
+namespace Prudential
 
-module Say =
-    let hello name =
-        printfn "Hello %s" name
+module Year =
+    open System
+
+
+
+    type CalendarRecord = { Year : DateTime; Month : DateTime } 
+
+

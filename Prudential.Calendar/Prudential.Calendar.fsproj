@@ -6,7 +6,6 @@
 
   <ItemGroup>
     <Compile Include="Library.fs" />
-    <Compile Include="Year.fs" />
   </ItemGroup>
 
 </Project>
